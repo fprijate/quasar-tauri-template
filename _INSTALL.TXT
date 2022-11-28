@@ -1,0 +1,4 @@
+pnpm create quasar
+
+pnpm add -D @tauri-apps/cli
+pnpm tauri init
