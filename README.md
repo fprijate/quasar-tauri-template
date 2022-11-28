@@ -1,5 +1,10 @@
 # Quasar Tauri Template
 
+## Requirements
+
+[WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+Download Evergreen Bootstrapper
+
 ## Clone this repo
 
 ## Install the dependencies
